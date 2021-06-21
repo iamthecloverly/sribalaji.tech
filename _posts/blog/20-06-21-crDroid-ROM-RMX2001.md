@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "crDroid ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+title: "crDroid v.7.7 ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
 description: ""
 categories: [blog]
 tags: [crDroid, RMX2001]
