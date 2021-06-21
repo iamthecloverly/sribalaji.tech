@@ -8,7 +8,7 @@ redirect_from:
   - /2021/06/20/
 ---
 
-[crDroid]()
+[crDroid](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/crDroid.jpg)
 
 **crDroid** is designed to improve the performance, reliability and customizability of stock Android.crDroid uses LineageOS as base. We try to keep in sync with LineageOS source while also adding lots of customizations for you to choose from.As crDroid is based on LineageOS, which is also based on stock Android, we can say crDroid is going to keep updates flowing as long as LineageOS and Google do.
 
