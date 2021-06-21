@@ -46,7 +46,6 @@ redirect_from:
 * EngineerMode
 
 ### Known issues
-* Night light flickers
 * You tell me!
 
 ### Downloads
