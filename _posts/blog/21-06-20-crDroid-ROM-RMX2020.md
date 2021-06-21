@@ -2,7 +2,7 @@
 layout: post
 title: "crDroid v.7.7 ROM  For Realme C3 & Narzo 10A [UNOFFICIAL]"
 description: ""
-categories: [blog]
+categories: [ROMs]
 tags: [crDroid, RMX2020]
 redirect_from:
   - /20/06/21/
