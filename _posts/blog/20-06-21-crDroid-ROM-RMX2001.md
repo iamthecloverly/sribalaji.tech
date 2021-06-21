@@ -5,7 +5,7 @@ description: ""
 categories: [blog]
 tags: [crDroid, RMX2001]
 redirect_from:
-  - /2021/06/20/
+  - /20/06/21/
 ---
 
 ![crDroid](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/crDroid.jpg?raw=true)
