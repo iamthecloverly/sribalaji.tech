@@ -84,7 +84,8 @@ We started as a small project (Fan-Edition) based on PE for the Xiaomi Mi A2 on 
 </details>
 
 ### Downloads
-**Gapps** - [Download](https://the.manshutyagi.workers.dev//crDroidAndroid-11.0-20210619-RMX2020-v7.7.zip)
+**SF** - [Download](https://sourceforge.net/projects/thecloverlyprojects/files/RMX2020/PixelExtended_RMX2020-11.0-20210623-1451-UNOFFICIAL.zip/download)
+**Mirror** - [Download](https://the.manshutyagi.workers.dev//PixelExtended_RMX2020-11.0-20210623-1451-UNOFFICIAL.zip)
 
 
 ### Join my telegram channel to get latest updates
