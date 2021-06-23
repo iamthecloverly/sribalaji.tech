@@ -51,6 +51,12 @@ redirect_from:
 ### Downloads
 **Vanilla** - [Download](https://the.manshutyagi.workers.dev//crDroidAndroid-11.0-20210619-RMX2020-v7.7.zip)
 
+### Join my telegram channel to get latest updates
+* [Click here](https://t.me/TheCloverly_Releases)
+
+### Support group
+* [Join NoW](https://t.me/SriBalajiHub)
+
 ### How to Flash ?
 **Instructions**
 

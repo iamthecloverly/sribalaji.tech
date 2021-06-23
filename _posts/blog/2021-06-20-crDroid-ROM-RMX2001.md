@@ -61,6 +61,12 @@ redirect_from:
 
 **crDroidAndroid-GAPPS-11.0-20210620-RMX2001-v7.7.zip** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-GAPPS-11.0-20210620-RMX2001-v7.7.zip/download)
 
+### Join my telegram channel to get latest updates
+* [Click here](https://t.me/TheCloverly_Releases)
+
+### Support group
+* [Join NoW](https://t.me/SriBalajiHub)
+
 ### How to Flash ?
 **Instructions**
 

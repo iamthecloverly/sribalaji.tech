@@ -63,6 +63,12 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 ### Downloads
 **GApps Varient** - [Download](https://www.pling.com/p/1527593/#files-panel)
 
+### Join my telegram channel to get latest updates
+* [Click here](https://t.me/TheCloverly_Releases)
+
+### Support group
+* [Join NoW](https://t.me/SriBalajiHub)
+
 ### How to Flash ?
 **Instructions**
 
