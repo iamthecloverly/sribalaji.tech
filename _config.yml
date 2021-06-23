@@ -21,7 +21,7 @@ sass:
   style: compressed
 
 # Site Data
-url: sribalaji.gitlab.io # the base hostname & protocol for your site, e.g. http://example.com
+url: sribalaji.tech # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: SriBalaji's Projects 
 description: "View my projects Including open source project, rom, apps, porting, etc"
@@ -34,7 +34,7 @@ author:
   social_links:
     - name: facebook
       url:
-    - name: gitlab
+    - name: github
       url: https://gitlab.com/sribalaji 
     - name: instagram
       url: https://www.instagram.com/iam.sribalaji
