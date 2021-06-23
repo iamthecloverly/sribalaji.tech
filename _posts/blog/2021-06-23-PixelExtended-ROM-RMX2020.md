@@ -8,7 +8,7 @@ redirect_from:
   - /20/06/23/
 ---
 
-![PixelExtended](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/PEXv2.8.jpg?raw=true)
+![PixelExtended](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/PEX_v2.8.jpg?raw=true)
 
 **PixelExtended** A Fork of PixelExperience
 We started as a small project (Fan-Edition) based on PE for the Xiaomi Mi A2 on Android 10. Then various users and maintainers got interested in supporting this project. Now, We are trying to give you best pixel experience by adding some necessary practical features you always wanted in PE. This ROM entirely exists on PE, Thanks to them !
