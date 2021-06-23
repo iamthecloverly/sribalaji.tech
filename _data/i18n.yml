@@ -25,7 +25,6 @@ en: &en
   show_comments: 'Show Comments'
   show_license: 'Show License'
   tags: 'Tags'
-  theme_info:  #'<p><small>Theme <a href="#" target="_blank">Simple Texture</a> developed by <a href="#" target="_blank">Yi Zeng</a>, powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>.</small></p>'
   view: 'View'
 en-us:
   <<: *en
