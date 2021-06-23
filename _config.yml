@@ -49,12 +49,12 @@ author:
 home:
   section1: <h1>SriBalaji's Projects</h1>
   section2: <h2>View my projects Including open source project, rom, apps, porting, etc</h2>
-  section3: <div class="social-links"><a class="ico-gitlab btn" href="https://gitlab.com/sribalaji " title="View on GitLab"></a></div>
+  section3: <div class="social-links"><a class="ico-github btn" href="https://gitlab.com/sribalaji " title="View on GitLab"></a></div>
   section4: <div class="social-links"><a class="ico-linkedin btn" href="https://www.linkedin.com/in/thecloverly/ " title="View on LinkedIn"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
   cc_license_image: /assets/images/theme/cc-by-sa.png # An image of your CC License. 
-  footer_content: A gem-based responsive simple texture styled <a href="#">Jekyll</a> theme.
+  footer_content: Join my <a href="https://t.me/TheCloverly_Projects">Telegram</a> Channel to Stay Up to Date.
 
 disqus:
   shortname: # e.g. yizeng
