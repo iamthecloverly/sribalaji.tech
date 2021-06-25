@@ -54,15 +54,15 @@ redirect_from:
 ### Screenshots
 <details>
 <div id="images">
-<img class="screenshot" src="https://imgur.com/agL5X9U">
-<img class="screenshot" src="https://imgur.com/NWYWkhL">
-<img class="screenshot" src="https://imgur.com/A6GCM2D">
-<img class="screenshot" src="https://imgur.com/PJeqbbm">
-<img class="screenshot" src="https://imgur.com/OlE2hyq">
-<img class="screenshot" src="https://imgur.com/nSrroLj">
-<img class="screenshot" src="https://imgur.com/XP0KZb8">
-<img class="screenshot" src="https://imgur.com/4iUvx2B">
-<img class="screenshot" src="https://imgur.com/eKJMt6z">
+<img class="screenshot" src="https://imgur.com/agL5X9U.jpg">
+<img class="screenshot" src="https://imgur.com/NWYWkhL.jpg">
+<img class="screenshot" src="https://imgur.com/A6GCM2D.jpg">
+<img class="screenshot" src="https://imgur.com/PJeqbbm.jpg">
+<img class="screenshot" src="https://imgur.com/OlE2hyq.jpg">
+<img class="screenshot" src="https://imgur.com/nSrroLj.jpg">
+<img class="screenshot" src="https://imgur.com/XP0KZb8.jpg">
+<img class="screenshot" src="https://imgur.com/4iUvx2B.jpg">
+<img class="screenshot" src="https://imgur.com/eKJMt6z.jpg">
 </div>
 </details>
 
