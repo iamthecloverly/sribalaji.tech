@@ -67,7 +67,9 @@ redirect_from:
 </details>
 
 ### Downloads
-**crDroidAndroid-11.0-20210620-RMX2001-v7.7.zip** - [Download]()
+**Gapps** - [Download](https://downloads.thecloverly.workers.dev/0://HyconOS_3.5_RMX2001-11.0-20210625-1714-UNOFFICIAL.zip)
+
+**Mirror** - [Click Here](https://sourceforge.net/projects/thecloverlyprojects/files/RMX2001/HyconOS_3.5_RMX2001-11.0-20210625-1714-UNOFFICIAL.zip/download)
 
 ### Join my telegram channel to get latest updates
 * [Click here](https://t.me/TheCloverly_Releases)
