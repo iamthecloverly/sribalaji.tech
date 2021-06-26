@@ -38,7 +38,6 @@ redirect_from:
 </details>
 
 ### Working features:
-<details>
 * VoLTE
 * Fingerprint sensor
 * WiFi
@@ -58,7 +57,6 @@ redirect_from:
 * Safetynet without magisk
 * DT2W
 * EngineerMode
-<details>
 
 ### Known issues
 * You tell me!
