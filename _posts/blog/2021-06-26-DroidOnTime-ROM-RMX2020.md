@@ -5,7 +5,7 @@ description: ""
 categories: [ROMs]
 tags: [DotOS, RMX2020]
 redirect_from:
-  - /20/06/21/
+  - /26/06/21/
 ---
 
 ![DotOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/Dotos.png?raw=true)
