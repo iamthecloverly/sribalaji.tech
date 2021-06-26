@@ -13,7 +13,7 @@ redirect_from:
 **Hycon OS** is AOSP Based ROM with many pixel features & Customizations. We always try to improve it's stability and performance for better & smooth, lagfree experience.
 
 ### Changelog
-==== 20th June, 2021 ====
+==== 25th June, 2021 ====
 
 - Merged June ASB (android-11.0.0_r38) 
 - Hycon OS source upstream.

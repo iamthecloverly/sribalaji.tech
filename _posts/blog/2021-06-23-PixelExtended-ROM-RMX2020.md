@@ -68,21 +68,6 @@ We started as a small project (Fan-Edition) based on PE for the Xiaomi Mi A2 on 
 ### Known issues
 * You tell me!
 
-### Screenshots
-<details>
-<div id="images">
-<img class="screenshot" src="https://imgur.com/5KYJKG7.jpg7">
-<img class="screenshot" src="https://imgur.com/CymwZ6N.jpg">
-<img class="screenshot" src="https://imgur.com/0VDlcdH.jpg">
-<img class="screenshot" src="https://imgur.com/1ZhUpeE.jpg">
-<img class="screenshot" src="https://imgur.com/JzZpGDn.jpg">
-<img class="screenshot" src="https://imgur.com/vmubZxd.jpg">
-<img class="screenshot" src="https://imgur.com/pRlqQB6">
-<img class="screenshot" src="https://imgur.com/GdEJssH.jpg">
-<img class="screenshot" src="https://imgur.com/KjkoVTy.jpg">
-</div>
-</details>
-
 ### Downloads
 **SF** - [Download](https://sourceforge.net/projects/thecloverlyprojects/files/RMX2020/PixelExtended_RMX2020-11.0-20210623-1451-UNOFFICIAL.zip/download)
 **Mirror** - [Download](https://the.manshutyagi.workers.dev//PixelExtended_RMX2020-11.0-20210623-1451-UNOFFICIAL.zip)
