@@ -76,6 +76,7 @@ redirect_from:
 
 ### How to Flash ?
 **Instructions**
+
 1) Boot into custom recovery 
 
 2) Format data
@@ -89,7 +90,7 @@ redirect_from:
 * **Kernel source** - [Click here](https://github.com/Realme-G70-Series/kernel_realme_rmx2020)
 
 ### Device info
-<details>
+
 Realme C3/Realme Narzo 10A
 ================================
 
@@ -110,4 +111,3 @@ Front Camera | Single: 5 MP
 Release Month | 2020, February 14 | 2020, May 22 
 
 ![Realme C3](https://fdn2.gsmarena.com/vv/pics/realme/realme-c3-2020-2.jpg "Realme C3")
-</details>
