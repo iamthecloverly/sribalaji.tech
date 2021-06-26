@@ -26,8 +26,6 @@ redirect_from:
 - Misc improvements.
 
 ### Working features:
-<details>
-<div id="images">
 * VoLTE
 * Fingerprint sensor
 * WiFi
@@ -47,7 +45,6 @@ redirect_from:
 * Safetynet without magisk
 * DT2W
 * EngineerMode
-</details>
 
 ### Known issues
 * You tell me!
