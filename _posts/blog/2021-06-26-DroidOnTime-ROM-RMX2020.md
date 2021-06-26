@@ -10,9 +10,7 @@ redirect_from:
 
 ![DotOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/Dotos.png?raw=true)
 
-**DotOS** Droid on Time | A beautiful custom ROM based on AOSP, which endeavors the essence of
-
-"Simple", "Unique", "Secure ".
+**DotOS** Droid on Time | A beautiful custom ROM based on AOSP, which endeavors the essence of "Simple", "Unique", "Secure ".
 
 ### Changelog
 ==== 26th June, 2021 ====
