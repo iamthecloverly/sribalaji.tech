@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "HyconOS 3.5 | Sunrise | ROM  For Realme 6/6i/6s (G90T Series) [OFFICIAL]"
+title: "HyconOS 3.5 | Sunrise | ROM  For Realme 6/6i/6s (G90T Series) [UNOFFICIAL]"
 description: ""
 categories: [ROMs]
 tags: [HyconOS, RMX2001]
@@ -79,6 +79,7 @@ redirect_from:
 
 ### How to Flash ?
 **Instructions**
+
 1) Boot into custom recovery 
 
 2) Format data
