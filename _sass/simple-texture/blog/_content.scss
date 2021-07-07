@@ -6,6 +6,13 @@
 
         color: #0077CC;
         border-bottom: 1px dotted #FFD18D;
+        {
+            border-radius: 25px;
+            background: #73AD21;
+            padding: 20px;
+            width: 200px;
+            height: 150px;
+          }
 
         &:hover {
             -webkit-transition: all .3s ease-in-out;
