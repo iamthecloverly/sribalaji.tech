@@ -85,12 +85,6 @@ textarea {
     font-family: $fonts-body;
 }
 
-@import 'simple-texture/blog/overlay';
-@import 'simple-texture/blog/header';
-@import 'simple-texture/blog/footer';
-@import 'simple-texture/blog/content';
-@import 'simple-texture/blog/responsive';
-
 html, body {
     width: 100%;
     height:100%;
@@ -138,3 +132,9 @@ body {
         background-position: 0% 50%;
     }
 }
+
+@import 'simple-texture/blog/overlay';
+@import 'simple-texture/blog/header';
+@import 'simple-texture/blog/footer';
+@import 'simple-texture/blog/content';
+@import 'simple-texture/blog/responsive';
