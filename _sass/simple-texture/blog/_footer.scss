@@ -78,7 +78,6 @@
     }
 }
 
-@import 'simple-texture/common/social-icons';
 html, body {
     width: 100%;
     height:100%;
@@ -101,3 +100,5 @@ html, body {
           background-position: 0% 50%;
       }
   }
+
+@import 'simple-texture/common/social-icons';
