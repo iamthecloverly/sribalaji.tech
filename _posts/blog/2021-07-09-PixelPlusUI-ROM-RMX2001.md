@@ -22,9 +22,7 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 * Introduce Android 12 Style Switches
 * Some misc addition
 
-<SourceChangelog>
-
-
+<details>
 * Latest July Patch Merged 'android-11.0.0_r39'
 * Redesign Settings Homepage Header
 * Settings: Implement Miui Inspired Custom Headers
@@ -74,7 +72,7 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 * Fix inactive state Wifi Icon in Kai Icon Pack
 * Improved Performance and stability
 * Misc changes and fixes
-</SourceChangelog>
+</details>
 
 ### Working features:
 * VoLTE, Wifi calling
