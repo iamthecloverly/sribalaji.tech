@@ -22,7 +22,7 @@ Android is one of the most featuristic OS. We all know that it is Google that pr
 * Introduce Android 12 Style Switches
 * Some misc addition
 
-### Source Chanhelogs
+### Source Changelogs:
 [ClickHere](https://telegra.ph/PixelPlusUI-Realme-6-Series-Changelog-07-10)
 
 ### Working features:
