@@ -57,7 +57,7 @@ redirect_from:
 **Screenshots** - [ClickHere](https://t.me/TheCloverly_Projects/118)
 
 ### Downloads
-**Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210715-RMX2001-v7.8.zip/downloa)
+**Vanilla** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-11.0-20210715-RMX2001-v7.8.zip/download)
 
 **GApps** - [Download](https://sourceforge.net/projects/crdroid/files/RMX2001/7.x/crDroidAndroid-GAPPS-11.0-20210715-RMX2001-v7.8.zip/download)
 
