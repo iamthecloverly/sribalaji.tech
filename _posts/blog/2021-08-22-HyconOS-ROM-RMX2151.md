@@ -8,7 +8,7 @@ redirect_from:
   - /21/08/22/
 ---
 
-![HyconOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/HyconOS.jpg?raw=true)
+![HyconOS](https://gitlab.com/sribalaji/sribalaji.gitlab.io/-/raw/master/assets/images/headers/HyconOS_4.5.jpg?raw=true)
 
 **Hycon OS** is AOSP Based ROM with many pixel features & Customizations. We always try to improve it's stability and performance for better & smooth, lagfree experience.
 
