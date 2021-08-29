@@ -30,7 +30,7 @@ Download any of the latest migrate from these links:
  - When phone boots up, a notification will appear saying "migrate package flashed", click on it to complete restore, if this notification doesn't appear or you by mistake removed this notification, than you can just click on "migrate helper" app (installed when you flashed TWRP migrate package) and complete the restore process.
  - After restore process completes, uninstall or disable migrate helper app. 
  
-##Step by Step Screenshots
+## Step by Step Screenshots
 <details>
 <div id="images">
   <img class="screenshot" src="https://user-images.githubusercontent.com/86469621/131248619-a68235d5-c41e-43b8-82ae-e9c3f67e002b.png">
