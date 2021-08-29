@@ -5,7 +5,7 @@ description: "Instructions on how to use migrate."
 categories: [migrate , ROM ,backup]
 tags: [ROM, migrate , backup]
 redirect_from:
-  - /2021/08/28/
+  - /2021/08/29/
 ---
 
 # Download
